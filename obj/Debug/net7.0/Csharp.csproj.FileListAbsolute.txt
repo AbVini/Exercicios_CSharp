@@ -1,0 +1,14 @@
+C:\Users\hikut\Documents\Teste Programação\Csharp\bin\Debug\net7.0\Csharp.exe
+C:\Users\hikut\Documents\Teste Programação\Csharp\bin\Debug\net7.0\Csharp.deps.json
+C:\Users\hikut\Documents\Teste Programação\Csharp\bin\Debug\net7.0\Csharp.runtimeconfig.json
+C:\Users\hikut\Documents\Teste Programação\Csharp\bin\Debug\net7.0\Csharp.dll
+C:\Users\hikut\Documents\Teste Programação\Csharp\bin\Debug\net7.0\Csharp.pdb
+C:\Users\hikut\Documents\Teste Programação\Csharp\obj\Debug\net7.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikut\Documents\Teste Programação\Csharp\obj\Debug\net7.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\hikut\Documents\Teste Programação\Csharp\obj\Debug\net7.0\Csharp.AssemblyInfo.cs
+C:\Users\hikut\Documents\Teste Programação\Csharp\obj\Debug\net7.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\hikut\Documents\Teste Programação\Csharp\obj\Debug\net7.0\Csharp.dll
+C:\Users\hikut\Documents\Teste Programação\Csharp\obj\Debug\net7.0\refint\Csharp.dll
+C:\Users\hikut\Documents\Teste Programação\Csharp\obj\Debug\net7.0\Csharp.pdb
+C:\Users\hikut\Documents\Teste Programação\Csharp\obj\Debug\net7.0\Csharp.genruntimeconfig.cache
+C:\Users\hikut\Documents\Teste Programação\Csharp\obj\Debug\net7.0\ref\Csharp.dll
